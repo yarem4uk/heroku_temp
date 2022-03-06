@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yarem4uk/heroku_temp/issues"
   },
-  "homepage": "https://github.com/yarem4uk/heroku_temp#readme"
+  "homepage": "https://github.com/yarem4uk/heroku_temp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
