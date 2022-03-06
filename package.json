@@ -1,0 +1,19 @@
+{
+  "name": "heroku_temp_express",
+  "version": "1.0.0",
+  "description": "temp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarem4uk/heroku_temp.git"
+  },
+  "author": "Yaremchuk Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarem4uk/heroku_temp/issues"
+  },
+  "homepage": "https://github.com/yarem4uk/heroku_temp#readme"
+}
